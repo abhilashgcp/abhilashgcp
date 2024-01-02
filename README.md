@@ -1,11 +1,12 @@
-### Hi I am Abhilash P R 👋
+### Hi I am Abhilash Pulari Ravichandran 👋
 
 ## I'm a Python Developer, Full Stack Developer, Devops Engineer, and Teacher!!
 
-- 🔭 Senior Engineer with 7+ Years development Experience
+- 🔭 Senior Engineer with 10+ Years development Experience
 - 🌱 Learning new tools and integrating it
 - 👯 Good Team player
-- 🥅 2021 Goals: Deeper understanding of Kubernetes 
+- 🥅 2024 Goals: Deeper understanding of Generative AI
+- 🥅 Worked with creating multiple observability dashboards using Loki, Prometheus and Cortex data
 - ⚡ Python Developer | Full Stack Developer | Devops | Integration
 
 ### Connect with me:
